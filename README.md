@@ -2,7 +2,6 @@
 
 ## 概要
 
-COACHTECH 教材 Tutorial 11-2「タスク管理APIのCRUD実装」で作成した成果物です。
 タスク管理APIのCRUD操作
 
 ## 使用技術
